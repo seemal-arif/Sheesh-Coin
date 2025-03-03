@@ -8,7 +8,7 @@ In the Sheesh Coin project, the owner has the capability to create raffles where
 - **Backend**: Developed the backend .
 - **Node.js & Express.js**: Utilized Node.js for backend services and Express.js for API development.
 - **Firebase Integration**: Integrated Firebase for push notifications.
-- **MongoDB**: For data management.
+- **Database Management :** Used MongoDB for database management
 - **Blockchain**: Solana web3 js api's were integrated.
   
 ## Role
